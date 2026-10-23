@@ -7,18 +7,18 @@
 
 <br>
 
-### Tecnologia pensada para quem usa.
+### Software bem pensado. Em cada detalhe.
 
-Desenvolvemos soluções de tecnologia com atenção a cada detalhe — da primeira conversa à experiência de uso.
+Na eyelid, desenvolvemos **software sob medida, integrações e automações** que simplificam o trabalho e tornam a tecnologia mais natural para quem usa.
 
-Criamos **software sob medida, integrações e automações** para transformar processos complexos em experiências simples.
+Começamos entendendo o seu negócio, os seus processos e as pessoas envolvidas. Esse entendimento orienta cada decisão, da arquitetura à interface, para entregar soluções confiáveis, intuitivas e preparadas para evoluir.
 
-### O que orienta nosso trabalho
+### Nosso compromisso
 
-- **Clareza em cada interação.** A tecnologia deve ser fácil de entender e usar.
-- **Precisão na execução.** Qualidade no código, no design e na entrega.
-- **Cuidado de ponta a ponta.** Cada decisão considera quem vai usar a solução.
+- **Qualidade em cada camada.** Código bem construído, interfaces cuidadosas e atenção ao que faz diferença no uso diário.
+- **Simplicidade na experiência.** Fluxos claros e interações que ajudam as pessoas a realizar o que precisam.
+- **Responsabilidade na entrega.** Comunicação próxima, alinhamento de expectativas e cuidado até a solução chegar a quem vai usá-la.
 
 ---
 
-<sub>eyelid · Software, com cuidado em cada detalhe.</sub>
+<sub>eyelid · Cuidado na construção. Clareza na experiência.</sub>
