@@ -19,3 +19,7 @@ A documentação visual está em [`docs/brand`](docs/brand/README.md).
 - [Estilos de referência](docs/brand/eyelid.css)
 
 Para visualizar o guia interativo, baixe ou clone o repositório e abra `docs/brand/index.html` no navegador. Preserve as pastas de fontes, logos, CSS e JavaScript. O GitHub mostra o código do HTML, não a página renderizada.
+
+## Documentos jurídicos
+
+Os modelos de NDA e de autorização de profissionais estão em [`docs/juridico`](docs/juridico/README.md), com instruções de preenchimento e reutilização. Preserve os modelos públicos e mantenha documentos preenchidos ou assinados em ambiente privado.
