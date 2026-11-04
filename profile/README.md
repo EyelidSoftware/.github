@@ -13,6 +13,13 @@ Na eyelid, desenvolvemos **software sob medida, integrações e automações** q
 
 Começamos entendendo o seu negócio, os seus processos e as pessoas envolvidas. Esse entendimento orienta cada decisão, da arquitetura à interface, para entregar soluções confiáveis, intuitivas e preparadas para evoluir.
 
+### Conheça a eyelid
+
+- [Site oficial](https://eyelid.com.br/)
+- [Desenvolvimento de software sob medida](https://eyelid.com.br/servicos/software-sob-medida)
+- [Consultoria tecnológica](https://eyelid.com.br/servicos/consultoria-tecnologica)
+- [Guias sobre software, automação e IA](https://eyelid.com.br/blog)
+
 ### Nosso compromisso
 
 - **Qualidade em cada camada.** Código bem construído, interfaces cuidadosas e atenção ao que faz diferença no uso diário.
